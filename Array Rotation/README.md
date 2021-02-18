@@ -222,5 +222,5 @@ Rohit Pawar
 
 Profile links :
 
-> Github : [Rohit Pawar](https://github.com/jailukanna "Github")
+> Github : [Bindu](https://github.com/jailukanna "Github")
 
