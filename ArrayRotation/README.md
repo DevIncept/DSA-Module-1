@@ -29,7 +29,7 @@ For multiple Elements instead of rotating one by one use simple methode.
 
 To rotate K elements to right side from left side do below steps
 
-1.  Devide Array into to part
+1.  Divide Array into to part
 
     I. First part contain first K elements of array.
 
@@ -45,11 +45,11 @@ Eg. :
 
     Array : {1,2,3,4,5,6} and K = 2
 
-Step 1 : Devide
+Step 1 : Divide
 
      part1 = {1,2} and part2 = {3,4,5,6}
 
-Step 2 : Crete new Array
+Step 2 : Create new Array
 
     Result Array = {}
 
@@ -68,7 +68,7 @@ Same as above.
 
 To rotate K elements to left side from right side do below steps
 
-1.  Devide Array into to part
+1.  Divide Array into to part
 
     I. First part contain first total elements minus last K elements of array.
 
@@ -84,11 +84,11 @@ Eg. :
 
     Array : {1,2,3,4,5,6} and K = 2
 
-Step 1 : Devide
+Step 1 : Divide
 
      part1 = {1,2,3,4} and part2 = {5,6}
 
-Step 2 : Crete new Array
+Step 2 : Create new Array
 
     Result Array = {}
 
