@@ -222,6 +222,5 @@ Rohit Pawar
 
 Profile links :
 
-> Github : [Rohit Pawar](https://github.com/RohitsSkill "Github")
+> Github : [Rohit Pawar](https://github.com/jailukanna "Github")
 
-> LinkedIn : [Rohit Pawar](https://www.linkedin.com/in/rohit-pawar-1a18481b2 "LinkedIn")
