@@ -25,11 +25,11 @@
 
 ## Method to Left Rotate Array
 
-For multiple Elements instead of rotating one by one use simple methode.
+For multiple Elements instead of rotating one by one use simple method.
 
 To rotate K elements to right side from left side do below steps
 
-1.  Divide Array into to part
+1.  Divide Array into two part
 
     I. First part contain first K elements of array.
 
