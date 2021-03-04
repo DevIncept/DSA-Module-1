@@ -2,7 +2,7 @@
 
 # DSA-Module-1
 
-1. [Part1: ARRAYS-Min-&-Max](Part1-ARRAYS-Min-&-Max/)
+1. ([Part1: ARRAYS-Min-&-Max](DSA-Module-1/ARRAYS-Min_&_Max/README.md))
 
 2. [Part2: ArrayRotation](Part2-ArrayRotation/)
 
