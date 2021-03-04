@@ -2,24 +2,24 @@
 
 1. [Part1: ARRAYS-Min-&-Max](ARRAYS-Min_&_Max/README.md)
 
-2. [Part2: ArrayRotation](Part2-ArrayRotation/)
+2. [Part2: ArrayRotation](Array Rotation/README.md)
 
-3. [Part3: Duplicates](Part3-Duplicates/)
+3. [Part3: Duplicates](Ayush DSA/Code/Instructions/Instructions.md)
 
-4. [Part4: BFS_traverse](Part3-BFS_traverse/)
+4. [Part4: BFS_traverse](BFS_traverse/README.md)
 
-5. [Part5: Binary Search Algo](Part4-Binary-Search-Algo)
+5. [Part5: Binary Search Algo](Binary_Search_Algo/README.md)
 
-6. [Part6: Binary_Search_Tree](Part4-Binary_Search_Tree/)
+6. [Part6: Binary_Search_Tree](Binary_Search_Tree/README.md)
 
-7. [Part7: Bubble Selection & Insertion Sort](Part5-Bubble-Selection-&-Insertion-Sort)
+7. [Part7: Bubble Selection & Insertion Sort](Bubble, Selection & Insertion Sort/README.md)
 
-8. [Part8: Check_binaryTree_BST](Part6-Check_binaryTree_BST/)
+8. [Part8: Check_binaryTree_BST](Check_binaryTree_BST/README.md)
 
-9. [Part9: Depth First Search(BST)](Part6-DepthFirstSearch(BST)/)
+9. [Part9: Depth First Search(BST)](DepthFirstSearch(BST)/readme.md)
 
-10. [Part10: Extract Max Element](Part7-Extract-Max-Element)
+10. [Part10: Extract Max Element](Extract Max Element/README.md)
 
-11. [Part11: Heap-Insertion](Part7-Heap-Insertion/)
+11. [Part11: Heap-Insertion](Heap-Insertion/README.md)
 
-12. [Part12: Heap-Overview](Part7-Heap-Overview/)
+12. [Part12: Heap-Overview](HeapOverview/README.md)
