@@ -5,7 +5,7 @@
     Array Roation is nothing but shifting array elements one by one from left to right or right to left.
     eg. : Array is : {1,2,3,4}
           After shifting 1 to right Array look like
-          {2,3,4,1}
+          {4,1,2,3}
 
 ## Types of Array Rotation
 
