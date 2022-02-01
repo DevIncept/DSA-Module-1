@@ -25,11 +25,11 @@
 
 ## Method to Left Rotate Array
 
-For multiple Elements instead of rotating one by one use simple methode.
+For multiple Elements instead of rotating one by one use simple method.
 
 To rotate K elements to right side from left side do below steps
 
-1.  Devide Array into to part
+1.  Divide Array into two parts
 
     I. First part contain first K elements of array.
 
@@ -45,7 +45,7 @@ Eg. :
 
     Array : {1,2,3,4,5,6} and K = 2
 
-Step 1 : Devide
+Step 1 : Divide
 
      part1 = {1,2} and part2 = {3,4,5,6}
 
@@ -68,9 +68,9 @@ Same as above.
 
 To rotate K elements to left side from right side do below steps
 
-1.  Devide Array into to part
+1.  Divide Array into two parts
 
-    I. First part contain first total elements minus last K elements of array.
+    I. First part contains first total elements minus last K elements of array.
 
     II. Second part contain last K elements of array.
 
@@ -78,13 +78,13 @@ To rotate K elements to left side from right side do below steps
 
 3.  Now store second part of array into result array.
 
-4.  Last store first part of array.
+4.  Lastly store first part of array.
 
 Eg. :
 
     Array : {1,2,3,4,5,6} and K = 2
 
-Step 1 : Devide
+Step 1 : Divide
 
      part1 = {1,2,3,4} and part2 = {5,6}
 
@@ -132,7 +132,7 @@ class ArrayRotation {
 
     }
 
-    // Right Rotate Methode
+    // Right Rotate Method
     public static void printRightRotated(int[] arr, int k) {
         // Create Result Array to store result
         int rightRotate[] = new int[arr.length];
